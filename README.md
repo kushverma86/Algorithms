@@ -1,2 +1,2 @@
 # Algorithms
-DS and Algo problems
+DS and Algo problems for Interview Preparation
